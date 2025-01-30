@@ -1,0 +1,14 @@
+{
+    "name": "terminal-snake-js",
+    "module": "tsnake.ts",
+    "type": "module",
+    "scripts": {
+        "start": "bun tsnake.ts"
+    },
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
