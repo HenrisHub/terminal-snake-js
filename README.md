@@ -1,5 +1,5 @@
 # terminal-snake-js
 
 ```bash
-    bun run start
+bun run start
 ```
